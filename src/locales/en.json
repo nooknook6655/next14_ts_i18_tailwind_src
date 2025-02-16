@@ -1,3 +1,22 @@
 {
-    "hello":"Hello"
+  "logo": "Night BIRD",
+  "nameCompany": "Rajdhevee Clinic",
+  "urlCompany": "Rajdhevee Holistic Clinic Co., Ltd.",
+  "menu": {
+    "home": "HOME",
+    "about": "ABOUT",
+    "promotion": "PROMOTION",
+    "products": "PRODUCTS",
+    "treatment": "TREATMENT",
+    "beautyhack": "BEAUTY HACK",
+    "qanda": "Q&A",
+    "contact": "CONTACT US"
+  },
+  "button": {
+    "ok": "OK",
+    "sent": "SENT",
+    "register": "Register",
+    "login": "Login"
+  },
+  "hello": "Hello"
 }
